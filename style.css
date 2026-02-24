@@ -18,7 +18,7 @@
 body {
   
 
-    background-color: #000000;
+ 
     margin: 50px;
     font-family: 'Karla', sans-serif;
 }
@@ -26,20 +26,20 @@ body {
 h1 {
 font-family: 'Spectral', serif;
 font-size: 120px;
-color: #8d3737;
+color: #ffffff;
 line-height: 130px;
 margin-bottom:50px;
 }
 
 p {
 font-size: 20px;
-color: #934141;
+color: #ffffff;
 width: 50%;
 margin-bottom:40px;
 }
 
 .read-more{
-color: #f33;;
+color: rgb(255, 255, 255);;
 margin-bottom: 80px;
 text-transform: uppercase;
 font-size: 16px;
@@ -63,7 +63,7 @@ background-color: #0f1a26;
 margin: 50px;
 font-family: 'Karla', sans-serif;
 
-background-image: url("images/anywhere-workers.gif")
+background-image: url("images/anywhere-workers.gif");
 background-repeat: no-repeat;
 background-position: right top;
 background-size: 700px;
